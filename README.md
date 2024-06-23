@@ -1,2 +1,3 @@
 # PRODIGY_DS_TASK03
-Welcome to the Prodigy InfoTech Internship repository! This repository documents are for Task 3 of my internship journey.. 
+TASK OVERVIEW:Build a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. Use a dataset such as the Bank Marketing dataset from the UCI Machine Learning Repository.
+
